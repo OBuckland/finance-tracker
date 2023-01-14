@@ -1,7 +1,6 @@
 @import '../../variables.scss';
 
 .navContainer{
-    // background-color: $colour-primary-pink;
     height: 7vh;
     padding: 15px;
     display: flex;
@@ -9,13 +8,11 @@
     width: 100vw;
     align-items: center;
     border-radius: 0px 0px 40px 40px;
-    // color: $colour-primary-grey;
 }
 
-.homeBtn {
 
-}
-
-.addBtn {
-
+.icons {
+    width: 40px;
+    height: 40px;
+    color: $colour-one;
 }
